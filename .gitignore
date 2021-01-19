@@ -1,0 +1,5 @@
+# Secret file
+secret.json.orig
+
+# Dependencies Directories
+/node_modules
