@@ -51,7 +51,7 @@ module.exports = function(grunt) {
 		encrypt: {
 			encryptConfigFiles: {
 				options: {
-					key: '!NEWKIEbruno1',
+					key: 'nonsense',
 					dest: './',
 					ext: 'encrypted'
 				},
@@ -61,7 +61,7 @@ module.exports = function(grunt) {
 			},
 			decryptConfigFiles: {
 				options: {
-					key: '!NEWKIEbruno1',
+					key: 'nonsense',
 	 				dest: './',
 					decrypt: true
 				},
